@@ -1,6 +1,50 @@
+class sys.io.File
+enum sys.db.RecordType
+class sys.db.Object
+interface sys.db.ResultSet
+class sys.db._Mysql.D
+class sys.db.Manager
+interface sys.db.Connection
+enum haxe.io.Error
+class haxe.io.Eof
+class haxe.ds.StringMap
+class haxe.ds.ObjectMap
+class haxe.ds.IntMap
+class haxe.io.Bytes
+class haxe.Serializer
 class haxe.Log
+interface haxe.IMap
+class cpp.vm.Thread
+class cpp.cppia.Host
+class Type
+enum ValueType
+class StringTools
+class StringBuf
 class Std
+class Reflect
 class Main
+class _List.ListIterator
+class _List.ListNode
+class List
+class Date
+file F:\\HaxeToolkit\\haxe\\std/List.hx F:\\HaxeToolkit\\haxe\\std\\List.hx
+file F:\\HaxeToolkit\\haxe\\std/StringTools.hx F:\\HaxeToolkit\\haxe\\std\\StringTools.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/Date.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\Date.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/Reflect.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\Reflect.hx
 file F:\\HaxeToolkit\\haxe\\std/cpp/_std/Std.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\Std.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/StringBuf.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\StringBuf.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/Type.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\Type.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/haxe/ds/IntMap.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\haxe\\ds\\IntMap.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/haxe/ds/ObjectMap.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\haxe\\ds\\ObjectMap.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/haxe/ds/StringMap.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\haxe\\ds\\StringMap.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/sys/db/Mysql.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\sys\\db\\Mysql.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/sys/io/File.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\sys\\io\\File.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/cppia/Host.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\cppia\\Host.hx
+file F:\\HaxeToolkit\\haxe\\std/cpp/vm/Thread.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\vm\\Thread.hx
 file F:\\HaxeToolkit\\haxe\\std/haxe/Log.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\Log.hx
-file Main.hx i:\\Dropbox\\_dev\\Haxe-Cppia-Basics\\examples\\02-hello-host\\src\\Main.hx
+file F:\\HaxeToolkit\\haxe\\std/haxe/Serializer.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\Serializer.hx
+file F:\\HaxeToolkit\\haxe\\std/haxe/io/Bytes.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\io\\Bytes.hx
+file F:\\HaxeToolkit\\haxe\\std/haxe/io/Eof.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\io\\Eof.hx
+file F:\\HaxeToolkit\\haxe\\std/sys/db/Manager.hx F:\\HaxeToolkit\\haxe\\std\\sys\\db\\Manager.hx
+file F:\\HaxeToolkit\\haxe\\std/sys/db/Object.hx F:\\HaxeToolkit\\haxe\\std\\sys\\db\\Object.hx
+file Main.hx i:\\Dropbox\\_dev\\Cppia-Basics\\examples\\02-hello-host\\src\\Main.hx
