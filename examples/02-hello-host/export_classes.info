@@ -1,0 +1,6 @@
+class haxe.Log
+class Std
+class Main
+file F:\\HaxeToolkit\\haxe\\std/cpp/_std/Std.hx F:\\HaxeToolkit\\haxe\\std\\cpp\\_std\\Std.hx
+file F:\\HaxeToolkit\\haxe\\std/haxe/Log.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\Log.hx
+file Main.hx i:\\Dropbox\\_dev\\Haxe-Cppia-Basics\\examples\\02-hello-host\\src\\Main.hx
