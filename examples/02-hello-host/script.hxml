@@ -1,4 +1,4 @@
 -cp src
 -main Main
--cpp bin/script.cppia 
+-cppia bin/script.cppia
 -D cppia
