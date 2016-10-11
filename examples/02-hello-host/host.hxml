@@ -1,4 +1,4 @@
 -cp src
--main Main
+-main MainHost
 -cpp bin
 -D scriptable
