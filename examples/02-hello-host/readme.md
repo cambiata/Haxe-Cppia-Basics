@@ -19,6 +19,7 @@ Please note the ```-D scriptable``` compilation flag that tells the compiler to 
 When the Host executable is run, it will output the following
 
 ```> Host.hx:3: Hello from cppia HOST```
+
 ```> Script.hx:3: Hello from cppia SCRIPT```
 
 wich shows us that host applications, after tracing its own message, also loads and executes the script file.
