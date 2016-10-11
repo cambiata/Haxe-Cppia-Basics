@@ -14,16 +14,11 @@ The **host.hxml** file below should be compiled as follows:
 
 ```> haxe host.hxml```
 
-Please note the ```-D scriptable``` compilation flag that tells the compiler to include what's needed to act like a cppia host (**bin/Main.exe**).
+Please note the ```-D scriptable``` compilation flag that tells the compiler to include what's needed to act like a cppia host (**bin/Host.exe**).
 
-##Problem!
+When the Host executable is run, it will output the following
 
-The line Main.hx:9 is my attempt to load and run the **script.cppia** into the **Main.exe** host. Unfortunately, it doesn't work. The only thing that happens is that some kind of loop is kicked of wich prints out the host line 7 multiple times:
+```> Host.hx:3: Hello from cppia HOST```
+```> Script.hx:3: Hello from cppia SCRIPT```
 
-```> Main.hx:7: Hello from cppia HOST! ```
-
-```> Main.hx:7: Hello from cppia HOST! ```
-
-```> Main.hx:7: Hello from cppia HOST! ```
-
-etc. without sign that the script code is ever run. 
+wich shows us that host applications, after tracing its own message, also loads and executes the script file.
