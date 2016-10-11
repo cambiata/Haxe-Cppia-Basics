@@ -1,4 +1,4 @@
-class MainHost {
+class Host {
     static public function main() {
         trace('Hello from cppia HOST');
         var scriptname = './script.cppia';             

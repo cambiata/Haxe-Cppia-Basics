@@ -22,10 +22,10 @@ class StringTools
 class StringBuf
 class Std
 class Reflect
-class MainHost
 class _List.ListIterator
 class _List.ListNode
 class List
+class Host
 class Date
 file F:\\HaxeToolkit\\haxe\\std/List.hx F:\\HaxeToolkit\\haxe\\std\\List.hx
 file F:\\HaxeToolkit\\haxe\\std/StringTools.hx F:\\HaxeToolkit\\haxe\\std\\StringTools.hx
@@ -47,4 +47,4 @@ file F:\\HaxeToolkit\\haxe\\std/haxe/io/Bytes.hx F:\\HaxeToolkit\\haxe\\std\\hax
 file F:\\HaxeToolkit\\haxe\\std/haxe/io/Eof.hx F:\\HaxeToolkit\\haxe\\std\\haxe\\io\\Eof.hx
 file F:\\HaxeToolkit\\haxe\\std/sys/db/Manager.hx F:\\HaxeToolkit\\haxe\\std\\sys\\db\\Manager.hx
 file F:\\HaxeToolkit\\haxe\\std/sys/db/Object.hx F:\\HaxeToolkit\\haxe\\std\\sys\\db\\Object.hx
-file MainHost.hx i:\\Dropbox\\_dev\\Cppia-Basics\\examples\\02-hello-host\\src\\MainHost.hx
+file Host.hx i:\\Dropbox\\_dev\\Cppia-Basics\\examples\\02-hello-host\\src\\Host.hx
