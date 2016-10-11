@@ -6,8 +6,7 @@ The **script.hxml** file below should be compiled as follows:
 
 ```> haxe script.hxml```
 
-Please note the ```-D cppia``` compilation flag that tells the compiler to output a cppia script (**bin/script.cppia**) instead of a standard cpp executable.
-
+Please note the ```-cppia``` target that tells the compiler to output a cppia script (**bin/script.cppia**).
 
 ## host.hxml
 

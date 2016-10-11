@@ -1,4 +1,8 @@
 -cp src
 -main Main
 -cppia bin/script.cppia
--D cppia
+
+# please note: in Haxe version < 3.3 you would use the following instead of "-cppia bin/script.cppia":
+
+# -cpp bin/script.cppia
+# -D cppia

@@ -6,7 +6,7 @@ The script.hxml file below should be compiled as follows:
 
 > haxe script.hxml
 
-Please note the -D cppia compilation flag that tells the compiler to output a cppia script (bin/script.cppia) instead of a standard cpp executable.
+Please note the -cppia targget that tells the compiler to output a cppia script (bin/script.cppia).
 
 The bin/script.cppia can be tested by using the cppia host included with the standard haxelib hxcpp installation, as follows:
 
